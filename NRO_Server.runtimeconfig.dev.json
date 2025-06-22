@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\PGaming\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\PGaming\\.nuget\\packages"
+    ]
+  }
+}
