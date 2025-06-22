@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b524ed3-56ab-4256-a663-69e2ed87c86d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Sources/Application/Constants/TextServer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Application/Constants/TextServer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/Application/Constants/TextTask.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Application/Constants/TextTask.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/Application/Handlers/Character/CharacterHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Application/Handlers/Character/CharacterHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/Application/Handlers/Character/DiscipleHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Application/Handlers/Character/DiscipleHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/Application/Handlers/Client/GachThe.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Application/Handlers/Client/GachThe.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/Application/Handlers/Client/Giftcode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Application/Handlers/Client/Giftcode.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/Application/Handlers/Item/ItemHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Application/Handlers/Item/ItemHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/Application/Main/Controller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Application/Main/Controller.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/Application/Main/Menu/Menu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Application/Main/Menu/Menu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/Application/Main/Menu/MenuNpc.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Application/Main/Menu/MenuNpc.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/Application/Main/Service.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Application/Main/Service.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sources/Application/Threading/Server.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sources/Application/Threading/Server.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/nro_acc.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/nro_acc2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/nro_data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/nro_data2.sql" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2H1YhrZm9enbe9IVTF9OC8WGafY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/nro_thanlong&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b524ed3-56ab-4256-a663-69e2ed87c86d" name="Changes" comment="" />
+      <created>1667454182734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667454182734</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
